@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of migratetoflarum/canonical.** Not for installation: use [Packagist](https://packagist.org/packages/migratetoflarum/canonical) or the [upstream repository](https://github.com/migratetoflarum/canonical).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/migratetoflarum-canonical/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**7** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/migratetoflarum-canonical/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-03-13 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/migratetoflarum-canonical/tree/archive/v0.1.0) |
+| `0.2.0` | 2020-05-06 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/migratetoflarum-canonical/tree/archive/v0.2.0) |
+| `0.2.1` | 2020-07-16 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/migratetoflarum-canonical/tree/archive/v0.2.1) |
+| `0.2.2` | 2020-10-25 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/migratetoflarum-canonical/tree/archive/v0.2.2) |
+| `0.2.3` | 2020-12-20 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/migratetoflarum-canonical/tree/archive/v0.2.3) |
+| `0.2.4` | 2021-03-18 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/migratetoflarum-canonical/tree/archive/v0.2.4) |
+| `1.0.0` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/migratetoflarum-canonical/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/migratetoflarum-canonical.json](https://github.com/flarchive/archive-index/blob/main/packages/migratetoflarum-canonical.json)
 
